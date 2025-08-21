@@ -22,7 +22,7 @@ Questa applicazione è stata creata per offrire un accesso semplice e veloce a u
 - Seleziona l'opzione per "Installare app sconosciute" o "Installa applicazioni non verificate".
 - Concedi l'autorizzazione al browser o al gestore file che stai utilizzando per installare il file.
 - Installa l'app:
-- Apri il file .apk scaricato.
+- Apri il file .apk scaricato. <img width="32" height="32" alt="icon" src="https://github.com/user-attachments/assets/285a58ea-72a1-4aab-8154-d9369d7173e9" />
 - Segui le istruzioni a schermo per completare l'installazione. L'icona dell'app apparirà nella tua lista di applicazioni.
 
 📜 Crediti e Licenze
