@@ -12,7 +12,7 @@ Questa applicazione è stata creata per offrire un accesso semplice e veloce a u
 
 ⚠️ **Nota1**: il Software essendo una webapp, per funzionare richiede una connessione ad internet.
 
-⚠️ **Nota2**: Questo repository non contiene i sorgenti.Il file .apk è stato compilato a partire dal progetto originale, quindi non ci sono ulteriori dipendenze da installare.
+⚠️ **Nota2**: Questo repository non contiene i sorgenti.Il file .apk è stato compilato a partire dal progetto originale.
 
 📱 Come installare l'APK
 ### L'app è distribuita come un file .apk che puoi installare su qualsiasi dispositivo Android 13+, inclusi tablet e Autoradio compatibili. Poiché non proviene dal Google Play Store, dovrai abilitare l'installazione da sorgenti sconosciute.
